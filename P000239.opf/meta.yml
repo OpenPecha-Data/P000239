@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000239
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ལེགས་བཤད་ཉི་མ་རང་ཤར་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-15
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-15
 web_metadata:
   title:
     en: The Self-Arising Sun:An Excellent Discourse
